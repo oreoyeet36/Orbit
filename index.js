@@ -17,7 +17,8 @@ app.command("/orbit-help", async ({ ack, respond }) => {
 /orbit-ping - Check bot latency
 /orbit-catfact - Get a cat fact
 /orbit-joke - Get a joke from Orbit
-/orbit-delayed-ping - delayes the ping to orbit by a set amount in ms`
+/orbit-delayed-ping - delayes the ping to orbit by a set amount in ms
+/orbit-random-int - creates a random int between 0 and the number provided`
   });
 });
 
