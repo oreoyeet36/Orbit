@@ -1,6 +1,6 @@
 # Orbit
 
-Orbit is a slackbot that can be used with slash commands, i have a list of those available for use below.
+Orbit is a slackbot that can be used with slash commands, I have a list of those available for use below.
   - /orbit-help - get help on Orbits functions
   - /orbit-ping - Check bot latency
   - /orbit-catfact - Get a cat fact
